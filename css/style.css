@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.container{
+    background-color:rgb(255, 255, 255)
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+.fluid-container2{
+    background-color:#0B5ED7;
+    height: 80px;
+}
+
+.ft{
+    background-color:#0B5ED7;
+    color: #ffffff;
+    cursor: pointer;
+}
+.links{
+    text-decoration: none;
+    font-size: 20px;
+}
